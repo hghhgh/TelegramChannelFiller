@@ -1,3 +1,10 @@
 .idea
+*.log
+*.jpg
+*.JPG
+*.png
+tebeslami/other/
+*.pyc
+
 
 
